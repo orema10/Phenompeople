@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "SimpleJoys";
+    src: url('./fonts/SimpleJoys/SimpleJoys.ttf');
+}
+
+@font-face {
+    font-family: 'ProximaNova';
+    src: url('./fonts/ProximaNova/ProximaNovaRegular.otf');
+}
+
+@font-face {
+    font-family: 'ProximaNova-Bold';
+    src: url('./fonts/ProximaNova/ProximaNovaBold.otf');
+}
+
+@font-face {
+    font-family: 'ProximaNova-Black';
+    src: url('./fonts/ProximaNova/ProximaNovaBlack.otf');
+}
